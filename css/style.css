@@ -1,0 +1,285 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    font-family: roboto, sans-serif, arial;
+    font-size: 16px;
+    color: #242424;
+}
+
+.container {
+    width: 1300px;
+    margin: 0px auto;
+}
+
+.header {
+    background-color: #0055a4;
+    padding: 0px;
+}
+
+.header b {
+    background: #fff;
+    color: red;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.header marquee {
+    font-size: 20px;
+    color: white;
+    width: 80%;
+}
+
+.giet_logo {
+    height: 65px;
+}
+
+nav {
+    float: right;
+    padding: 25px 0px;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 2px 10px;
+    font-weight: 500;
+}
+
+.slider img {
+    width: 100%;
+}
+
+.bg_color {
+    background: #f0f3fa;
+}
+
+.main_section {
+    width: 100%;
+    float: left;
+    padding: 100px 0px 100px 0px;
+}
+
+.event {
+    width: 32%;
+    margin-right: 1%;
+    float: left;
+    background: rgb(241, 238, 238);
+}
+
+.event i {
+    color: red;
+    font-size: 14px;
+}
+
+.event div {
+    padding: 10px;
+}
+
+.event .heading {
+    padding: 10px;
+    color: white;
+    background: #0055a4;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.event ul li {
+    margin-bottom: 20px;
+    width: 100%;
+    float: left;
+    list-style: none;
+}
+
+.campus_news span {
+    width: 80px;
+    float: left;
+}
+
+.campus_news h2 {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.campus_news h6 {
+    font-weight: 500;
+    font-size: 13px;
+    color: red;
+}
+
+.campus_news p {
+    font-size: 14px;
+}
+
+.event_date {
+    background-color: red;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    color: white;
+    padding: 8px 12px;
+    margin-right: 10px;
+}
+
+.heading {
+    font-size: 28px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    color: #0055a4;
+}
+
+.subhead {
+    font-size: 18px;
+    color: red;
+    font-weight: 500;
+}
+
+.about_us div {
+    width: 45%;
+    float: left;
+    line-height: 30px;
+    font-size: 18px;
+}
+
+.about_us h4 {
+    font-size: 18;
+    color: red;
+    font-weight: 500;
+}
+
+.about_us p {
+    margin-bottom: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    line-height: 23px;
+}
+
+.about_us img {
+    width: 40%;
+    float: left;
+}
+
+.main_section_mv {
+
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+
+.Testimonial_mv {
+    width: 100%;
+    float: left;
+
+}
+
+.Testimonial_name {
+    background-color: #0055a40f;
+    text-align: center;
+}
+
+.Testimonial_text_mv {
+    background-color: #0055a40f;
+    padding: 30px;
+    line-height: 35px;
+    border-radius: 50px;
+    font-size: 18px;
+    text-align: left;
+    border: 1px solid #0055a4;
+    margin-bottom: 30px;
+}
+
+
+.award p {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+}
+
+.award img {
+    width: 100%;
+}
+
+.award b {
+    min-width: 115px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.award h3 {
+    font-size: 23px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.principal img {
+    width: 150px;
+    float: left;
+    margin-right: 10px;
+}
+
+.principal h2 {
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+.principal h4 {
+    font-size: 16px;
+    color: red;
+    font-weight: 400;
+}
+
+.Testimonial {
+    width: 30.5%;
+    float: left;
+    margin-right: 2.5%;
+}
+
+.Testimonial_text {
+    background-color: #0055a40f;
+    padding: 20px;
+    line-height: 35px;
+    border-radius: 10px;
+    font-size: 18px;
+    text-align: center;
+    border: 1px solid #0055a4;
+}
+
+.Gallery img {
+    width: 23.2%;
+    margin-right: 1.5%;
+    margin-bottom: 20px;
+}
+
+.footer {
+    background-color: #f0f3fa;
+    padding: 40px 0px;
+    width: 100%;
+    float: left;
+}
+
+.footer_logo {
+    height: 150px;
+    width: auto;
+}
+
+.footer_sect {
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.footer_sect a {
+    color: #202020;
+    margin-left: 10px;
+    text-decoration: none;
+}
